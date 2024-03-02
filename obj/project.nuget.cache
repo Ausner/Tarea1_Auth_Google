@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7sLlmUeycgnRoOPiZ4pWINjrA4xB6XyS8DIv8Eu1jOrxuScb+i6GC3QVVQJL7OS/HdeH8jbC3FERNxYRX7GIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\GoogleAuth-Ausner-Tarea1\\GoogleAuth-Ausner-Tarea1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.2\\microsoft.aspnetcore.authentication.google.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

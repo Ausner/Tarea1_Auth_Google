@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GoogleAuth-Ausner-Tarea1/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Google": "8.0.2"
+        },
+        "runtime": {
+          "GoogleAuth-Ausner-Tarea1.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/8.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "8.0.2.0",
+            "fileVersion": "8.0.224.6804"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoogleAuth-Ausner-Tarea1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authentication.Google/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q6iFy77xC3kEV6KHf+L4lkYVJvqRMsIIG3L8vHYCW9nG/TD+sblI2eYmmC1Qh1hqO6ihKAnH3B3f1X/x4ErAtQ==",
+      "path": "microsoft.aspnetcore.authentication.google/8.0.2",
+      "hashPath": "microsoft.aspnetcore.authentication.google.8.0.2.nupkg.sha512"
+    }
+  }
+}
